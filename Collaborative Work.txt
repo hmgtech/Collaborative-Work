@@ -77,25 +77,45 @@ Chapter 1 (Hinal)
 Chapter 2 - MEANINGFUL NAMES
 
 - names should reveal intent
+
 - avoid words whose entrenched meanings vary from intended meaning
+
 - using inconsistent spellings is disinformation
+
 - Number series naming (a1, a2, ...) are non informative, they provide no clue
-  about authors intention
+about authors intention
+
 - Noise words are meaningless distinction
+
 - Distinguish names in such a way that reader knows what differences they offer
+
 - Use pronounceable names
+
 - Use searchable names
+
 - Avoid encodings
+
 - Java objects are strongly typed and editing env are advanced
   that detect a type error before we run and compile
+
 - Avoid mental mapping
+
 - Professional programmer understands that clarity is king
+
 - Class and object names should have noun or noun phrases
+
 - Methods should have verb or verb phrase names
+
 - Choose clarity over entertainment value
+
 - Say what you mean, mean what you say
+
 - Pick one word per concept
+
 - Avoid using same word for two purposes
+
 - Use solution domain names
+
 - Use problem domain names
+
 - Add meaningful context
