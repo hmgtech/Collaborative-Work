@@ -31,6 +31,13 @@ In this foreword, there are lots many phrases that author wrote with deep meanin
 
 
 Introduction
+The introduction starts with an image of two doors inside of which the code quality is being judged. Robert Martin asks the reader which door would represent your code?
+He goes on to giving the solution to "How to wind up behind the right door?". The answer according to him is "Craftsmanship". Knowledge and Work are the two parts of
+craftmanship.He explains this with a simple example. Learning to ride a bicycle. A person could know all the physics fundamentals going into riding a bicycle and 
+still fall down the first time he tries to actually ride the bicycle. Coding is NO DIFFERENT. He goes on to give a brief summary of the book. He divides the book in 
+3 phases. The first several chapters focusing on various coding practices to follow. The second phase consists of exercises where the reader has to transform a given 
+code too reduce the number of problems present in the code. The last chapter is a Payoff as described by him. It contains all the heuristics and smells that we 
+encountered while solving the second phase. This will build a knowledge base worth holding on while coding.
 
 
 
