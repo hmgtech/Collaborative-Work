@@ -1,21 +1,23 @@
-Foreward
+Foreword by: James O. Coplien From: Mørdrup, Denmark.
 
+In this foreword, there are lots many phrases that author wrote with deep meaning. Some of them I have highlighted below with my understanding.
 
+1. “Honesty in small things is not a small thing.” Small things matter.
 
+2. "God is in the details". Every small-small detail is important and it matters
 
+3. "A place for everything, and everything in its place." I found this Interesting: Meaning: A piece of code should be where you expect to find it—and, if not, you should re-factor to get it there. 
 
+4. "Cleanliness is next to godliness" Meaning: Keeping the code clean is next to a sign of spirituality or goodness. God resides in the places that are clean. “Swachhta tya prabhuta”
 
-Introduction
+5. "He who is faithful in little is faithful in much." Meaning: If we do little things faithfully, then definitely we ll be able to do big things faithfully too. The true faithfulness of a person is judged the time when no one is watching him.
 
+6. "A stitch in time saves nine." While Coding we should correct each error if it is there. It will save out lots of time. Else, we have to debug our code and it will consume much time.
 
+7. "The early bird catches the worm." Meaning: Don’t put off until tomorrow what you can do today.
 
+8. "An ounce of prevention is worth a pound of cure. An apple a day keeps the doctor away." Meaning:  Clean code honours the deep roots of wisdom beneath our broader culture, or our culture as it once was, or should be, and can be with attentiveness to detail.
 
+9. “To err is human; to forgive, divine.” Meaning: It is a recommended practice in Scrum that re-factoring be  art of the concept of “Done.” Neither architecture nor clean code insist on perfection, only on honesty and doing the best we can.
 
-Chapter 1
-
-
-
-
-
-Chapter 2 - clean Code
-
+10. “A bad penny always shows up.” Meaning: We abandon our code early, not because it is done, but because our value system focuses more on outward appearance than on the substance of what we deliver. This inattentiveness costs us in the end
