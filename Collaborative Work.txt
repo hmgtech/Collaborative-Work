@@ -24,6 +24,8 @@ Chapter 1 (Hinal)
   i) used the word elegant
   ii) Code should be elegant, 
 
+Chapter 2 - clean Code
 
-Chapter 2
+
+
 
