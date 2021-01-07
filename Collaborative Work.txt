@@ -11,11 +11,19 @@ Introduction
 
 
 
-Chapter 1
-
-
+Chapter 1 (Hinal)
+1. Code represents the details of the requirements
+2. Specifying requirements in details that a machine can execute them is called programming. The specification is code
+3. Bad code can bring company down
+4. Wading through bad code
+5. Later equals never
+6. Only way to go fast is to keep the code clean
+7. code-sense is important
+8. Thoughts about clean code:
+  Bjarne Stroustrup (C++ inventor)
+  i) used the word elegant
+  ii) Code should be elegant, 
 
 
 Chapter 2
 
-Hello
