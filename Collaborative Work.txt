@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Foreword by: James O. Coplien From: Mørdrup, Denmark.
 
 In this foreword, there are lots many phrases that author wrote with deep meaning. Some of them I have highlighted below with my understanding.
@@ -75,35 +74,8 @@ Chapter 1 (Hinal)
  10. The Boy Scoutt rule- Leave the campground cleaner than you found it
 
 
-Chapter 2 - clean Code
+Chapter 2 - MEANINGFUL NAMES
 
-
-
-
-=======
-Foreward
-
-
-
-
-
-
-Introduction
-
-
-
-
-
-Chapter 1
-
-
-
-
-
-Chapter 2 - Naming Variables.
-
-CHAPTER 2
-MEANINGFUL NAMES
 - names should reveal intent
 - avoid words whose entrenched meanings vary from intended meaning
 - using inconsistent spellings is disinformation
@@ -130,5 +102,3 @@ MEANINGFUL NAMES
 - Use problem domain names
 - Add meaningful context
 - Add no more context to a name than necessary
-
->>>>>>> temp
