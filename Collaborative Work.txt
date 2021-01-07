@@ -22,7 +22,40 @@ Chapter 1 (Hinal)
 8. Thoughts about clean code:
   Bjarne Stroustrup (C++ inventor)
   i) used the word elegant
-  ii) Code should be elegant, 
+  ii) Code should be elegant, pleasing, feel good to read
+  iii) Clean code is focused and exhibits close attention to detail
+ 
+ Grady Booch (author of Object Oriented Analysis and Design With applications)
+ i) Clean code is simple and direct
+ ii) Well written prose
+ iii) Doesn't obscure the designers intent
+ iv) Straighforward lines of control
+ v) Takes a readability perspective
+ 
+ Dave Thomas(founder of OTI- grandfather of Eclipse strategy)
+ i) Assert that clean code makes it easy for others to understand
+ ii) Makes it easy for other people to understand it
+ iii) Code without tests is not clean
+ iv) Minimal
+ v) Code should be literate
+ 
+ Michael Feathers 
+ i) Working effectively with legacy of code
+ ii) How to care for code
+ 
+ Ron Jefferies
+ i) Clean code runs all tests
+ ii) Contains no duplication
+ iii) Expresses all design ideas
+ iv) Minimize the number of entities
+ 
+ Ward Cunningham (Wiki inventor)
+ i) Each routine turns out to be what you expect
+ ii) godfather of all that care about code
+ 
+ 9. Reading code should be easy because the ratio of reading: writing is 10:1
+ 10. The Boy Scoutt rule- Leave the campground cleaner than you found it
+
 
 Chapter 2 - clean Code
 
