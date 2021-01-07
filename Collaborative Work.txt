@@ -16,10 +16,6 @@ Chapter 1
 
 
 
-<<<<<<< HEAD
-Chapter 2 - clean Code
-=======
-Chapter 2
 
-Hello
->>>>>>> bcbc1e7c8ec7e7449d94f3ffc71050f5342b2ce3
+Chapter 2 - clean Code
+
