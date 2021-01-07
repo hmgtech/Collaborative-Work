@@ -22,14 +22,6 @@ In this foreword, there are lots many phrases that author wrote with deep meanin
 
 10. “A bad penny always shows up.” Meaning: We abandon our code early, not because it is done, but because our value system focuses more on outward appearance than on the substance of what we deliver. This inattentiveness costs us in the end
 
-=========
-
-
-
-
-
-
-
 Introduction
 The introduction starts with an image of two doors inside of which the code quality is being judged. Robert Martin asks the reader which door would represent your code?
 He goes on to giving the solution to "How to wind up behind the right door?". The answer according to him is "Craftsmanship". Knowledge and Work are the two parts of
@@ -85,8 +77,48 @@ Chapter 1 (Hinal)
  10. The Boy Scoutt rule- Leave the campground cleaner than you found it
 
 
-Chapter 2 - clean Code
+Chapter 2 - MEANINGFUL NAMES
 
+- names should reveal intent
 
+- avoid words whose entrenched meanings vary from intended meaning
 
+- using inconsistent spellings is disinformation
 
+- Number series naming (a1, a2, ...) are non informative, they provide no clue
+about authors intention
+
+- Noise words are meaningless distinction
+
+- Distinguish names in such a way that reader knows what differences they offer
+
+- Use pronounceable names
+
+- Use searchable names
+
+- Avoid encodings
+
+- Java objects are strongly typed and editing env are advanced
+  that detect a type error before we run and compile
+
+- Avoid mental mapping
+
+- Professional programmer understands that clarity is king
+
+- Class and object names should have noun or noun phrases
+
+- Methods should have verb or verb phrase names
+
+- Choose clarity over entertainment value
+
+- Say what you mean, mean what you say
+
+- Pick one word per concept
+
+- Avoid using same word for two purposes
+
+- Use solution domain names
+
+- Use problem domain names
+
+- Add meaningful context
