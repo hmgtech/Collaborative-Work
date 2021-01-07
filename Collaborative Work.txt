@@ -39,10 +39,6 @@ still fall down the first time he tries to actually ride the bicycle. Coding is 
 code too reduce the number of problems present in the code. The last chapter is a Payoff as described by him. It contains all the heuristics and smells that we 
 encountered while solving the second phase. This will build a knowledge base worth holding on while coding.
 
-
-
-
-
 Chapter 1 (Hinal)
 1. Code represents the details of the requirements
 2. Specifying requirements in details that a machine can execute them is called programming. The specification is code
