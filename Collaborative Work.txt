@@ -21,3 +21,67 @@ In this foreword, there are lots many phrases that author wrote with deep meanin
 9. “To err is human; to forgive, divine.” Meaning: It is a recommended practice in Scrum that re-factoring be  art of the concept of “Done.” Neither architecture nor clean code insist on perfection, only on honesty and doing the best we can.
 
 10. “A bad penny always shows up.” Meaning: We abandon our code early, not because it is done, but because our value system focuses more on outward appearance than on the substance of what we deliver. This inattentiveness costs us in the end
+
+
+
+
+
+
+
+Introduction
+
+
+
+
+
+Chapter 1 (Hinal)
+1. Code represents the details of the requirements
+2. Specifying requirements in details that a machine can execute them is called programming. The specification is code
+3. Bad code can bring company down
+4. Wading through bad code
+5. Later equals never
+6. Only way to go fast is to keep the code clean
+7. code-sense is important
+8. Thoughts about clean code:
+  Bjarne Stroustrup (C++ inventor)
+  i) used the word elegant
+  ii) Code should be elegant, pleasing, feel good to read
+  iii) Clean code is focused and exhibits close attention to detail
+ 
+ Grady Booch (author of Object Oriented Analysis and Design With applications)
+ i) Clean code is simple and direct
+ ii) Well written prose
+ iii) Doesn't obscure the designers intent
+ iv) Straighforward lines of control
+ v) Takes a readability perspective
+ 
+ Dave Thomas(founder of OTI- grandfather of Eclipse strategy)
+ i) Assert that clean code makes it easy for others to understand
+ ii) Makes it easy for other people to understand it
+ iii) Code without tests is not clean
+ iv) Minimal
+ v) Code should be literate
+ 
+ Michael Feathers 
+ i) Working effectively with legacy of code
+ ii) How to care for code
+ 
+ Ron Jefferies
+ i) Clean code runs all tests
+ ii) Contains no duplication
+ iii) Expresses all design ideas
+ iv) Minimize the number of entities
+ 
+ Ward Cunningham (Wiki inventor)
+ i) Each routine turns out to be what you expect
+ ii) godfather of all that care about code
+ 
+ 9. Reading code should be easy because the ratio of reading: writing is 10:1
+ 10. The Boy Scoutt rule- Leave the campground cleaner than you found it
+
+
+Chapter 2 - clean Code
+
+
+
+
